@@ -7,5 +7,9 @@ echo
 
 echo '"node" and "npm" are now on the path'
 
+echo
+
+sudo snap refresh node
+
 # remove yourself
 rm $0
