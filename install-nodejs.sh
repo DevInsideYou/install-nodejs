@@ -9,6 +9,7 @@ echo '"node" and "npm" are now on the path'
 
 echo
 
+# update node
 sudo snap refresh node
 
 # remove yourself
